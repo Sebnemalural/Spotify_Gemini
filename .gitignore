@@ -1,14 +1,12 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
 
+# Sanal ortam
+.venv/
 
 # Ortam değişkenleri dosyası
 .env
 
-# Spotify cache
-.spotify_cache
-
-# sanal ortam
-.venv/
+# Spotipy cache
+.spotify_cache/
 
 # VS Code ayarları
 .vscode/
