@@ -8,8 +8,7 @@ A sample Python script that fetches your liked Spotify tracks and processes them
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Contributing](#contributing)
 
 ---
 
@@ -43,6 +42,20 @@ copy .env.example .env
 
 # macOS/Linux
 cp .env.example .env
+
+## Usage
+
+python spotify_gemini_playlist.py
+
+## Project Structure
+
+Spotify_Gemini/
+├── .gitignore
+├── .env.example
+├── README.md
+├── requirements.txt
+├── spotify_gemini_playlist.py
+└── (ignored: .venv/, .spotify_cache/, etc.)
 
 
 
